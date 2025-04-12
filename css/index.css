@@ -1,0 +1,24 @@
+body{
+    background-color: #cccccccc;
+    background-image: url(../img/gothamcity.png)
+}
+
+section{
+    height: 90vh;
+    width: 100%;
+    border-radius: 100px;
+    background: #ffffff;
+    margin-top: 20vh;
+}
+section img{
+    margin-left: 30%;
+    margin-top: 10%;
+    border-radius: 200px;
+}
+section img:hover{
+    box-shadow: 0 0 100 #000000;
+}
+section ul li{
+    font-size: 3.1em;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
